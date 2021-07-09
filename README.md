@@ -32,7 +32,7 @@ Add ALERTS, WARNINGS and other custom notifications to your Flarum posts.
 
 `[ACUSTOM]red,black,green,This is an ACUSTOM message.[/ACUSTOM]`
 
-***More Styled Notifications:***            
+### More Styled Notifications:     
 
 `[BWARNING]This is n BWARNING message.[/BWARNING]`
 
@@ -47,8 +47,6 @@ Add ALERTS, WARNINGS and other custom notifications to your Flarum posts.
 `[CERROR]red,white,red,THIS IS A CERROR TITLE,This is a CERROR message.[/CERROR]`
 
 `[CSUCCESS]green,white,green,THIS IS A CERROR TITLE,This is a CSUCCESS message.[/CSUCCESS]`
-
-***Added Proper BBCode Formatting (Thanks to [JoshyPHP](https://github.com/joshyphp)):***
 
 `[BCUSTOM]title=THIS IS A BCUSTOM TITLE font=red bg=black border=green[/BCUSTOM]`
 
@@ -66,7 +64,7 @@ Add ALERTS, WARNINGS and other custom notifications to your Flarum posts.
 ![Imgur](http://i.imgur.com/nPvuFdJ.png)
 ![Imgur](http://i.imgur.com/epDghP3.png?1)
 
-***Properly Formatted BBCode:***
+### Properly Formatted BBCode:
 
 ![Imgur](http://i.imgur.com/wmWPqpr.png)
 

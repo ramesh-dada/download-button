@@ -76,4 +76,4 @@ Add ALERTS, WARNINGS and other custom notifications to your Flarum posts.
 - [Packagist](https://packagist.org/packages/ramesh-dada/bbcode-alerts)
 - [Extiverse](https://extiverse.com/ramesh-dada/bbcode-alerts)
 - [Github](https://github.com/ramesh-dada/bbcode-alerts)
-- [Discuss]()
+- [Discuss](https://discuss.flarum.org/d/28080)

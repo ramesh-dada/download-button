@@ -1,10 +1,10 @@
 {
-  "name": "oe800/flarum-ext-bbcode-alerts",
+  "name": "ramesh-dada/bbcode-alerts",
   "description": "Add visual alerts / warnings to Flarum posts",
   "keywords": [
     "bbcode",
     "flarum",
-    "oe800",
+    "1Dot",
     "alerts",
     "warnings",
     "notifications"
@@ -13,20 +13,20 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "0E800",
-      "email": "0ld3nglish800@gmail.com"
+      "name": "RameshDada Premium",
+      "homepage": "https://discuss.flarum.org/u/1Dot"
     }
   ],
   "support": {
-    "issues": "https://github.com/0E800/flarum-ext-bbcode-alerts/issues",
-    "source": "https://github.com/0E800/flarum-ext-bbcode-alerts"
+    "issues": "https://github.com/ramesh-dada/bbcode-alerts/issues",
+    "source": "https://github.com/ramesh-dada/bbcode-alerts"
   },
   "require": {
-    "flarum/core": "^0.1.0-beta.8"
+    "flarum/core": "^1.0"
   },
   "extra": {
     "flarum-extension": {
-      "title": "0E800's BBCode Alerts",
+      "title": "BBCode Alerts",
       "icon": {
         "name": "fas fa-exclamation",
         "backgroundColor": "#000",

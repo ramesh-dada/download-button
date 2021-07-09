@@ -1,4 +1,4 @@
-# BBCode Alerts / Notifications by 0E800
+# BBCode Alerts / Notifications
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ramesh-dada/bbcode-alerts/blob/master/LICENSE)
 [![Latest Stable Version](https://img.shields.io/packagist/v/ramesh-dada/bbcode-alerts.svg)](https://packagist.org/packages/ramesh-dada/bbcode-alerts)

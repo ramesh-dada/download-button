@@ -66,11 +66,10 @@ Add ALERTS, WARNINGS and other custom notifications to your Flarum posts.
 
 ![Imgur](http://i.imgur.com/wmWPqpr.png)
 
-### To Do
-
-- Add more styles.
-- Requests?
 
 ### Links
 
-- [Packagist](https://packagist.org/packages/oe800/flarum-ext-bbcode-alerts)
+- [Packagist](https://packagist.org/packages/ramesh-dada/bbcode-alerts)
+- [Extiverse](https://extiverse.com/ramesh-dada/bbcode-alerts)
+- [Github](https://github.com/ramesh-dada/bbcode-alerts)
+- [Discuss]()

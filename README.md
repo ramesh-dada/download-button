@@ -1,8 +1,8 @@
 # BBCode Alerts / Notifications by 0E800
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/0E800/flarum-ext-bbcode-alerts/blob/master/LICENSE)
-[![Latest Stable Version](https://img.shields.io/packagist/v/oe800/flarum-ext-bbcode-alerts.svg)](https://packagist.org/packages/oe800/flarum-ext-bbcode-alerts)
-[![Total Downloads](https://img.shields.io/packagist/dt/oe800/flarum-ext-bbcode-alerts.svg)](https://packagist.org/packages/oe800/flarum-ext-bbcode-alerts)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ramesh-dada/bbcode-alerts/blob/master/LICENSE)
+[![Latest Stable Version](https://img.shields.io/packagist/v/ramesh-dada/bbcode-alerts.svg)](https://packagist.org/packages/ramesh-dada/bbcode-alerts)
+[![Total Downloads](https://img.shields.io/packagist/dt/ramesh-dada/bbcode-alerts.svg)](https://packagist.org/packages/ramesh-dada/bbcode-alerts)
 
 Add ALERTS, WARNINGS and other custom notifications to your Flarum posts.
 

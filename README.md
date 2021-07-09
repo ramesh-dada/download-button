@@ -20,7 +20,7 @@ Add ALERTS, WARNINGS and other custom notifications to your Flarum posts.
 
 ### Usage
 
-***Basic Notification Alerts:***
+#### Basic Notification Alerts:
 
 `[AWARNING]This is an AWARNING message.[/AWARNING]`
 
@@ -32,7 +32,7 @@ Add ALERTS, WARNINGS and other custom notifications to your Flarum posts.
 
 `[ACUSTOM]red,black,green,This is an ACUSTOM message.[/ACUSTOM]`
 
-### More Styled Notifications:     
+#### More Styled Notifications:     
 
 `[BWARNING]This is n BWARNING message.[/BWARNING]`
 
@@ -64,7 +64,7 @@ Add ALERTS, WARNINGS and other custom notifications to your Flarum posts.
 ![Imgur](http://i.imgur.com/nPvuFdJ.png)
 ![Imgur](http://i.imgur.com/epDghP3.png?1)
 
-### Properly Formatted BBCode:
+#### Properly Formatted BBCode:
 
 ![Imgur](http://i.imgur.com/wmWPqpr.png)
 

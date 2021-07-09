@@ -6,13 +6,17 @@
 
 Add ALERTS, WARNINGS and other custom notifications to your Flarum posts.
 
-### Installation
+### Install
 
-`composer require oe800/flarum-ext-bbcode-alerts`
+`composer require ramesh-dada/bbcode-alerts`
 
-### Updating
+### Update
 
-`composer update oe800/flarum-ext-bbcode-alterts`
+`composer update ramesh-dada/bbcode-alerts`
+
+### Uninstall
+
+`composer remove ramesh-dada/bbcode-alerts`
 
 ### Usage
 

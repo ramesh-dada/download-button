@@ -10,8 +10,8 @@ return [
         ->configure(function (Configurator $config) {
 
             $config->BBCodes->addCustom(
-                '[down]link={link} size={size} name={name}[/down]',
-                '<a href="{link}"><div class="ButtonGroup dadadownload"><div class="Button hasIcon Button--icon Button--primary dadadownload"><i class="fas fa-download"></i></div><div class="Button Button--primary">{name}</div><div class="Button">{size}</div></div></a>'
+                '[down link={TEXT3} size={TEXT1} name={TEXT2}][/down]',
+                '<a href="{TEXT3}"><div class="ButtonGroup dadadownload"><div class="Button hasIcon Button--icon Button--primary dadadownload"><i class="fas fa-download"></i></div><div class="Button">{TEXT2}</div><div class="Button Button--primary">{TEXT1}</div></div></a>'
             );
 
         })

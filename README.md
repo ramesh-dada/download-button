@@ -32,4 +32,4 @@ Add Download button with filename and size to your Flarum posts.
 - [Packagist](https://packagist.org/packages/ramesh-dada/download-button)
 - [Extiverse](https://extiverse.com/extension/ramesh-dada/download-button)
 - [Github](https://github.com/ramesh-dada/download-button)
-- [Discuss](https://discuss.flarum.org/d/28080)
+- [Discuss](https://discuss.flarum.org/d/28097)

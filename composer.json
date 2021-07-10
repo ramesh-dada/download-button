@@ -1,13 +1,11 @@
 {
-  "name": "ramesh-dada/bbcode-alerts",
-  "description": "Add visual alerts / warnings to Flarum posts",
+  "name": "ramesh-dada-premium/download-button",
+  "description": "Add visual Download button with size and filename to Flarum posts",
   "keywords": [
     "bbcode",
     "flarum",
     "1Dot",
-    "alerts",
-    "warnings",
-    "notifications"
+    "download"
   ],
   "type": "flarum-extension",
   "license": "MIT",
@@ -26,15 +24,15 @@
   },
   "extra": {
     "flarum-extension": {
-      "title": "BBCode Alerts",
+      "title": "Download Button BBCode",
       "icon": {
-        "name": "fas fa-exclamation",
+        "name": "fas fa-download",
         "backgroundColor": "#000",
         "color": "#fff"
       }
     },
     "flagrow": {
-      "discuss": "https://discuss.flarum.org/d/28080"
+      "discuss": "https://discuss.flarum.org/d/"
     }
   }
 }

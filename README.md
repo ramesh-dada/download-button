@@ -19,7 +19,7 @@ Add Download button with filename and size to your Flarum posts.
 ### Usage
 #### Input:
 ```
-[down]link={link} size={size} name={name}[/down]
+[down]link=https://flarum.org size=2kB name=reborn.zip[/down]
 ```
 #### Output:
 

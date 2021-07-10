@@ -17,6 +17,13 @@ Add Download button with filename and size to your Flarum posts.
 `composer remove ramesh-dada/download-button`
 
 ### Usage
+#### Input:
+```
+[down]link={link} size={size} name={name}[/down]
+```
+#### Output:
+
+![image](https://user-images.githubusercontent.com/75124237/125151797-6574cf80-e166-11eb-91e2-c6778c087943.png)
 
 
 

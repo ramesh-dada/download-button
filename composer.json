@@ -42,7 +42,7 @@
                 "js": false,
                 "jsCommon": false,
                 "gitConf": true,
-                "githubActions": true,
+                "githubActions": false,
                 "prettier": false,
                 "typescript": false,
                 "bundlewatch": false,
